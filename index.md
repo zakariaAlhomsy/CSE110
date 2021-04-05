@@ -31,6 +31,6 @@ Here are some goals I hope to achieve in the next 5 years, some sooner then othe
 
 
 
-[photos used in this page](photos)
+[photos used in this page](tree/fav-language/photos)
 
 [back to top](#Zakaria Alhomsy's User Page)
