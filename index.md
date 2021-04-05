@@ -1,6 +1,7 @@
 # Zakaria Alhomsy's User Page
 
 **About Me**
+
 My name is Zakaria, but I go by Zak. I've lived in San Diego almost all my life. 
 Some of my hobbies include: 
 - video games
@@ -12,13 +13,15 @@ Some of my inspirations for this goal were:
 1. Bill Gates
 ![](/CSE110/photos/bg.jpg "billgates")
 2. Steve Jobs
-![](/CSE110/photos/sj.jjpg "stevejobs")
+![](/CSE110/photos/sj.jpg "stevejobs")
 3. Larry Page 
-![](/CSE110/photos/larrypage.jjpg "larrypage")
+![](/CSE110/photos/larrypage.jpg "larrypage")
+
 These 3 and many others changed the world through technology, seeing that, I decided that
 if i wanted to do the same the best way would be through technology. So from a young age I was
 adamant on becoming a programmer. A great quote by Larry Page that relates to this is:
 > You never lose a dream. It just incubates as a hobby.
+
 Like many others I started off my journey with a simple `Hello World` program.
 Here are some goals I hope to achieve in the next 5 years, some sooner then others:
 - [ ] graduate
@@ -28,6 +31,6 @@ Here are some goals I hope to achieve in the next 5 years, some sooner then othe
 
 
 
-[photos used in this page](/photos)
+[photos used in this page](photos)
 
 [back to top](#Zakaria Alhomsy's User Page)
